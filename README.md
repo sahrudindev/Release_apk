@@ -25,7 +25,8 @@ NotesApp is a note-taking application that allows users to create, edit, and del
 
 1. **Clone this Repository**
     ```bash
-    git clone https://github.com/adeiskandarzulkarnaen/notesappmobile.git
+    git clone https://github.com/sahrudindev/Release_apk.git
+
     cd notesappmobile
     ```
 
@@ -50,9 +51,9 @@ This application is licensed under the MIT License. See the [LICENSE](LICENSE) f
 ## Project Thumbnail 
 
 <p float="left">
-    <img src="./docs/img/notesapp.png" alt="notesapp" width="250">
+    <img src="./docs/img/ss.png" alt="notesapp" width="250">
     &nbsp;&nbsp;
-    <img src="./docs/img/home_page.png" alt="home_page" width="250">
+    <img src="./docs/img/dd.png" alt="home_page" width="250">
     &nbsp;&nbsp;
-    <img src="./docs/img/addnote_page.png" alt="addnote_page" width="250">
+    <img src="./docs/img/tt.png" alt="addnote_page" width="250">
 </p>
